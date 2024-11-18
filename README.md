@@ -1,1 +1,1 @@
-Repository dedicated to our to-do list web app.
+Repository dedicated to my to-do list web app.
